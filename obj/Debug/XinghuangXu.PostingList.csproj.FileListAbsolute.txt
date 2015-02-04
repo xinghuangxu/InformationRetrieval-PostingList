@@ -1,0 +1,6 @@
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\bin\Debug\XinghuangXu.PostingList.exe.config
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\bin\Debug\XinghuangXu.PostingList.exe
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\bin\Debug\XinghuangXu.PostingList.pdb
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\obj\Debug\XinghuangXu.PostingList.csprojResolveAssemblyReference.cache
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\obj\Debug\XinghuangXu.PostingList.exe
+c:\users\atai\documents\visual studio 2013\Projects\XinghuangXu.PostingList\XinghuangXu.PostingList\obj\Debug\XinghuangXu.PostingList.pdb
